@@ -1,0 +1,5 @@
+Student,gpa,java.lang.Double,False,False
+Student,bool,java.lang.Boolean,False,False
+Student,name,java.lang.String,False,False
+Student,id,java.lang.Integer,True,True
+Student,TouchDate,java.util.Date,False,False
