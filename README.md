@@ -1,7 +1,7 @@
 # UniversityProjects
 ## Each branch represents a different project:
  ### 1 - Computer Architecture 
- I simulated how a computer works using java where we represent the cycles and how they work from instruction fetching to execution to result storing
+ I simulated how a computer works using java where I represent the cycles and how they work from instruction fetching to execution to result storing
  ### 2 - Databases 
  this was a project, where I simulated how a database engine works using Java and created different types of indices
  ### 3 - Mirco Processors 
